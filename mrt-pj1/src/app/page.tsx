@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            AGet started by editing <code>src/app/page.tsx</code>.
+            ABGet started by editing <code>src/app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>

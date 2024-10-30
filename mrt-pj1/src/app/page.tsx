@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            aA12ABCDEGet started by editing <code>src/app/page.tsx</code>.
+            AAAGet started by editing <code>src/app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>

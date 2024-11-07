@@ -4,7 +4,11 @@
   "description": "",
   "scripts": {
     "dev:pj1": "npm run -w mrt-pj1 dev",
-    "dev:pj2": "npm run -w mrt-pj2 dev"
+    "build:pj1": "npm run -w mrt-pj1 build",
+    "start:pj1": "npm run -w mrt-pj1 start",
+    "dev:pj2": "npm run -w mrt-pj2 dev",
+    "build:pj2": "npm run -w mrt-pj2 build",
+    "start:pj2": "npm run -w mrt-pj2 start"
   },
   "private": true,
   "workspaces": [

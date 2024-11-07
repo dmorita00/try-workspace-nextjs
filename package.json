@@ -9,7 +9,8 @@
   "private": true,
   "workspaces": [
     "mrt-pj1",
-    "mrt-pj2"
+    "mrt-pj2",
+    "shared-ui"
   ],
   "dependencies": {
     "next": "15.0.1",
